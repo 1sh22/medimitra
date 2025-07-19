@@ -2,6 +2,10 @@
 
 MediMitra is a full-stack doctor appointment platform that enables patients to connect with verified doctors, book appointments, and consult via secure video calls. The platform is built with Next.js, Prisma, Neon, Clerk, and Vonage, and features a modern, responsive UI.
 
+<img width="1440" height="711" alt="Screenshot 2025-07-19 at 6 48 14 PM" src="https://github.com/user-attachments/assets/d9b0e3c3-232f-4151-91f6-8a96f9e2c286" />
+
+
+
 ## Features
 
 - Patient and doctor onboarding with role-based access
@@ -25,7 +29,12 @@ MediMitra is a full-stack doctor appointment platform that enables patients to c
 - React Hook Form & Zod (Validation)
 - Shadcn UI
 
+<img width="1440" height="691" alt="Screenshot 2025-07-19 at 6 48 55 PM" src="https://github.com/user-attachments/assets/5f2770ee-6c07-4de6-b821-ab0f3308b2bd" />
+
+
 ## Getting Started
+
+
 
 ### Prerequisites
 
@@ -93,3 +102,7 @@ MediMitra is a full-stack doctor appointment platform that enables patients to c
 - Adjust the Prisma schema in `/prisma/schema.prisma` as needed.
 - Add or modify environment variables in `.env.local`.
 
+
+
+<img width="1438" height="677" alt="Screenshot 2025-07-19 at 6 49 34 PM" src="https://github.com/user-attachments/assets/d7802380-a566-4e65-9a46-438152deede2" />
+<img width="1440" height="667" alt="Screenshot 2025-07-19 at 6 50 56 PM" src="https://github.com/user-attachments/assets/5a51b709-e134-48cd-8879-a0329bd861f8" />
