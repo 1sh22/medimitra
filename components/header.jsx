@@ -48,7 +48,7 @@ export default function Header() {
           <motion.span
             whileHover={{ color: "#34d399", scale: 1.08 }}
             transition={{ type: "spring", stiffness: 300 }}
-            className="text-emerald-500 text-2xl font-bold ml-2"
+            className="text-emerald-500 text-lg font-bold ml-2"
           >
             MediMitra
           </motion.span>

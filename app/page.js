@@ -16,7 +16,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden py-32">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-12 items-center">
             <motion.div
               initial={{ x: -60, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
